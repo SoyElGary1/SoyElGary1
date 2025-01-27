@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.tenor.com/4tHlqgHhLcQAAAAj/dachshund-dogs.gif" width="100" style="border-radius: 8px" alt="dachshund gif"/>
 </div>
----
+
 ### 💡 **Developer Profile**
 ```yaml
 experience: "Shaping solutions since 2019"
