@@ -4,7 +4,21 @@
 <div align="center">
   <img src="https://media.tenor.com/4tHlqgHhLcQAAAAj/dachshund-dogs.gif" width="100" style="border-radius: 8px" alt="dachshund gif"/>
 </div>
-
+---
+### 💡 **Developer Profile**
+```yaml
+experience: "Shaping solutions since 2019"
+current_focus: 
+  - Spring Security implementations
+  - Microservices architecture
+  - API optimization
+philosophy: "Build it secure, build it scalable"
+passions: 
+  - Clean code craftsmanship
+  - Robust API design
+  - Solving real-world challenges
+coffee_break: "Walking my dachshund 🐕"
+```
 ---
 ### 🔥 **Technical Arsenal**
 
@@ -37,19 +51,5 @@
 
 ---
 
-### 💡 **Developer Profile**
-```yaml
-experience: "Shaping solutions since 2019"
-current_focus: 
-  - Spring Security implementations
-  - Microservices architecture
-  - API optimization
-philosophy: "Build it secure, build it scalable"
-passions: 
-  - Clean code craftsmanship
-  - Robust API design
-  - Solving real-world challenges
-coffee_break: "Walking my dachshund 🐕"
-```
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/soyelgary" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/> </a> <a href="https://github.com/SoyElGary1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/> </a> <a href="mailto:elgary1129@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/> </a> </div>
