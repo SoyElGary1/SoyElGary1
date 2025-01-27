@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Christopher Nuñez</h1>
 <h3 align="center">Java Backend Developer | Spring Ecosystem Specialist</h3>
-
 ###
 
 <div align="center">
@@ -8,7 +7,6 @@
 </div>
 
 ---
-
 ### 🔥 **Technical Arsenal**
 
 #### **Core Backend**
