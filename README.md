@@ -39,7 +39,7 @@
 ---
 
 ### 💡 **Developer Profile**
-
+```yaml
 experience: "Shaping solutions since 2019"
 current_focus: 
   - Spring Security implementations
@@ -52,4 +52,4 @@ passions:
   - Solving real-world challenges
 coffee_break: "Walking my dachshund 🐕"
 🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/soyelgary" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/> </a> <a href="https://github.com/SoyElGary1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/> </a> <a href="mailto:tu@email.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/> </a> </div> 
+<div align="center"> <a href="https://www.linkedin.com/in/soyelgary" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/> </a> <a href="https://github.com/SoyElGary1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/> </a> <a href="mailto:tu@email.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/> </a> </div> ```
