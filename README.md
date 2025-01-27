@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Ecosystem Specialist</h3>
 
 <div align="center">
-  <img src="https://media.tenor.com/L6NgqIM4SL4AAAAd/dachshund-running.gif" width="100" style="border-radius: 8px" alt="dachshund gif"/>
+  <img src="[https://media.tenor.com/L6NgqIM4SL4AAAAd/dachshund-running.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHViczZyYmNoZGpuMWdmdnZ4anVoa2F1MzVkNWx1ZGtkMXRvcHViaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2sgeolATbnRKMQznw0/giphy.gif)" width="100" style="border-radius: 8px" alt="dachshund gif"/>
 </div>
 
 ### 💡 **Developer Profile**
