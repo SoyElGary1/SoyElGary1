@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Christopher Nuñez</h1>
 <h3 align="center">Java Backend Developer | Spring Ecosystem Specialist</h3>
-###
 
 <div align="center">
   <img src="https://media.tenor.com/4tHlqgHhLcQAAAAj/dachshund-dogs.gif" width="100" style="border-radius: 8px" alt="dachshund gif"/>
